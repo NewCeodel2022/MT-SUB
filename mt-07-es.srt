@@ -1,0 +1,876 @@
+1
+00:01:29,298 --> 00:01:36,305
+ADMINISTRACIÓN ESPACIAL Y AERONÁUTICA
+
+2
+00:01:37,764 --> 00:01:42,978
+UNA SERIE DE NETFLIX
+
+3
+00:03:02,349 --> 00:03:06,853
+EPISODIO 7: LUNA
+
+4
+00:03:07,938 --> 00:03:09,064
+Capitán.
+
+5
+00:03:10,357 --> 00:03:11,733
+Capitán, encontré…
+
+6
+00:03:12,442 --> 00:03:14,653
+Encontré a E2. E2 está…
+
+7
+00:03:15,487 --> 00:03:17,487
+E2 está muerto.
+
+8
+00:03:17,030 --> 00:03:19,030
+¿Qué?
+
+9
+00:03:19,616 --> 00:03:20,701
+¿Cómo dices?
+
+10
+00:03:22,160 --> 00:03:24,371
+Tiene una herida de bala en el pecho.
+
+11
+00:03:25,956 --> 00:03:27,332
+<i>Creo que lo asesinaron.</i>
+
+12
+00:03:28,875 --> 00:03:30,252
+<i>¿Dónde está Taesuk?</i>
+
+13
+00:03:30,335 --> 00:03:31,378
+No…
+
+14
+00:03:32,087 --> 00:03:33,672
+lo he encontrado todavía.
+
+15
+00:03:33,755 --> 00:03:36,133
+Y las muestras han desaparecido.
+
+16
+00:03:36,216 --> 00:03:38,593
+Entiendo. Ve al centro de mando.
+
+17
+00:03:39,094 --> 00:03:40,470
+<i>Sí, capitán.</i>
+
+18
+00:03:43,598 --> 00:03:44,933
+Maldición.
+
+19
+00:03:45,016 --> 00:03:47,227
+<i>Reiniciando código de comunicaciones.</i>
+
+20
+00:03:47,811 --> 00:03:49,020
+LABORATORIO M3
+
+21
+00:04:32,063 --> 00:04:34,274
+CONECTANDO AL BLOQUE DE DATOS
+CARGANDO
+
+22
+00:04:46,411 --> 00:04:48,872
+¿"Prueba de respuesta al agua lunar"?
+
+23
+00:04:49,998 --> 00:04:51,500
+PRUEBA DE RESPUESTA AL AGUA LUNAR
+
+24
+00:04:53,293 --> 00:04:54,628
+SUSTANCIAS INORGÁNICAS Y ORGÁNICAS
+
+25
+00:05:02,302 --> 00:05:04,302
+<i>Kim Sun.</i>
+
+26
+00:05:03,220 --> 00:05:05,472
+<i>Kim Sun, ¿llegaste al centro de mando?</i>
+
+27
+00:05:05,555 --> 00:05:06,932
+Sí, acabo de llegar.
+
+28
+00:05:07,432 --> 00:05:09,976
+<i>Ubica a Taesuk
+y a la doctora Song ya mismo.</i>
+
+29
+00:05:10,060 --> 00:05:12,854
+Sí, señor. Los buscaré de inmediato.
+
+30
+00:05:13,522 --> 00:05:15,522
+De acuerdo.
+
+31
+00:05:15,273 --> 00:05:17,442
+Maldición. ¿Por qué se mueren todos?
+
+32
+00:05:18,235 --> 00:05:19,319
+Doctora Song.
+
+33
+00:05:20,403 --> 00:05:23,198
+Taesuk. Ubicación…
+
+34
+00:05:30,705 --> 00:05:32,290
+CIERRE DE PUERTAS
+
+35
+00:05:32,999 --> 00:05:34,999
+¿Qué?
+
+36
+00:05:40,131 --> 00:05:42,131
+Taesuk.
+
+37
+00:06:30,557 --> 00:06:31,766
+Taesuk.
+
+38
+00:06:33,518 --> 00:06:35,518
+Taesuk.
+
+39
+00:06:34,519 --> 00:06:35,520
+Date vuelta.
+
+40
+00:06:49,701 --> 00:06:50,869
+¿Lo mataste?
+
+41
+00:06:50,952 --> 00:06:52,954
+¿Por qué buscas a la doctora Song?
+
+42
+00:06:53,830 --> 00:06:55,165
+¿Por qué haces esto?
+
+43
+00:06:57,959 --> 00:06:59,461
+Mierda.
+
+44
+00:07:01,463 --> 00:07:02,714
+¿Por qué lo mataste?
+
+45
+00:07:07,552 --> 00:07:08,678
+Responde.
+
+46
+00:07:13,516 --> 00:07:16,353
+La doctora Song fue a buscar a esa chica.
+
+47
+00:07:24,277 --> 00:07:26,237
+CIERRE DE PUERTAS
+
+48
+00:07:36,706 --> 00:07:39,376
+<i>¡Kim Sun! ¡Contéstame, Kim Sun!</i>
+
+49
+00:07:41,878 --> 00:07:43,088
+Separémonos.
+
+50
+00:07:43,171 --> 00:07:44,673
+Continúa con la búsqueda.
+
+51
+00:07:45,423 --> 00:07:46,883
+Iré a ver a Kim Sun.
+
+52
+00:07:46,967 --> 00:07:51,304
+Capitán, el agua lunar que tiene Song
+es la única muestra que nos queda.
+
+53
+00:07:51,388 --> 00:07:54,641
+Deberíamos concentrarnos en recuperarla
+y encontrar a la doctora Song.
+
+54
+00:07:54,724 --> 00:07:59,104
+Si la doctora Song también perdió el agua,
+hay que recuperar las del laboratorio.
+
+55
+00:08:00,105 --> 00:08:02,732
+Taesuk es el único
+que pudo haber matado a E2
+
+56
+00:08:03,733 --> 00:08:05,235
+y llevarse el agua lunar.
+
+57
+00:08:08,321 --> 00:08:09,364
+¿Está seguro…
+
+58
+00:08:10,949 --> 00:08:12,075
+de que fue Taesuk?
+
+59
+00:08:14,369 --> 00:08:15,954
+Vamos a averiguarlo.
+
+60
+00:08:16,037 --> 00:08:18,748
+Permanece alerta
+cuando encuentres a la doctora Song.
+
+61
+00:08:18,832 --> 00:08:20,832
+Sí, señor.
+
+62
+00:08:22,669 --> 00:08:24,879
+Si el objetivo da señales de amenaza,
+
+63
+00:08:24,963 --> 00:08:27,382
+le dispararé para completar la misión.
+
+64
+00:08:29,676 --> 00:08:32,262
+Pero me aseguraré
+de que la doctora Song vuelva viva.
+
+65
+00:08:58,079 --> 00:08:59,748
+Maldito loco.
+
+66
+00:08:59,831 --> 00:09:01,875
+No deberías hacer esto.
+
+67
+00:09:05,253 --> 00:09:06,254
+Maldición.
+
+68
+00:09:19,059 --> 00:09:20,185
+Estoy vivo.
+
+69
+00:09:21,019 --> 00:09:22,520
+Sigo vivo.
+
+70
+00:09:25,148 --> 00:09:26,941
+Tenemos que sobrevivir.
+
+71
+00:09:27,025 --> 00:09:29,110
+Podemos volver a casa todos vivos.
+
+72
+00:09:29,194 --> 00:09:30,737
+Volvamos a casa vivos.
+
+73
+00:09:31,905 --> 00:09:32,906
+Vámonos a casa.
+
+74
+00:09:35,366 --> 00:09:38,912
+¿La doctora Song descubrió algo
+sobre ese monstruo?
+
+75
+00:09:39,996 --> 00:09:42,373
+Tú eres el monstruo aquí, desgraciado.
+
+76
+00:09:42,457 --> 00:09:43,666
+Mierda.
+
+77
+00:09:44,918 --> 00:09:47,045
+¿Qué diablos es esto?
+
+78
+00:09:47,879 --> 00:09:49,047
+¿Tan valioso es?
+
+79
+00:09:49,756 --> 00:09:52,801
+¿Por qué matarías a alguien por algo así?
+
+80
+00:09:52,884 --> 00:09:55,261
+¡En serio! ¡Mierda!
+
+81
+00:09:58,014 --> 00:09:59,432
+Bueno, basta.
+
+82
+00:10:01,810 --> 00:10:03,478
+Volvamos a casa todos vivos.
+
+83
+00:10:04,896 --> 00:10:06,896
+Baja eso.
+
+84
+00:10:08,024 --> 00:10:09,067
+Bájala.
+
+85
+00:10:09,150 --> 00:10:10,360
+Deja de acercarte.
+
+86
+00:10:11,194 --> 00:10:13,780
+Bájala, desgraciado.
+
+87
+00:10:13,863 --> 00:10:15,323
+¡Desgraciado!
+
+88
+00:10:15,406 --> 00:10:16,658
+¡Alto ahí!
+
+89
+00:10:17,367 --> 00:10:20,870
+Te voy a bañar con esta porquería.
+
+90
+00:10:20,954 --> 00:10:23,998
+¡Te la echaré y te mataré!
+
+91
+00:10:40,431 --> 00:10:41,933
+Por favor, déjame vivir.
+
+92
+00:10:45,728 --> 00:10:49,190
+Tengo… Maldición.
+
+93
+00:10:54,445 --> 00:10:56,990
+Por favor, déjame vivir.
+
+94
+00:10:57,073 --> 00:10:58,324
+Taesuk…
+
+95
+00:10:58,867 --> 00:11:00,410
+Ayúdame.
+
+96
+00:11:04,455 --> 00:11:05,665
+CERRAR
+
+97
+00:11:08,168 --> 00:11:10,420
+CERRAR, BLOQUEAR
+
+98
+00:11:17,051 --> 00:11:18,887
+Oye, ayúdame…
+
+99
+00:11:18,970 --> 00:11:20,096
+Oye, viejo.
+
+100
+00:11:21,598 --> 00:11:24,267
+Solo quiero irme a casa.
+
+101
+00:11:25,185 --> 00:11:26,311
+Yo solo…
+
+102
+00:11:28,354 --> 00:11:29,606
+Taesuk…
+
+103
+00:11:42,327 --> 00:11:43,328
+Taesuk…
+
+104
+00:11:50,543 --> 00:11:52,045
+¿Qué…?
+
+105
+00:11:52,128 --> 00:11:53,588
+¿Qué es esto?
+
+106
+00:13:43,239 --> 00:13:47,201
+PRUEBA DE RESPUESTA AL AGUA LUNAR
+
+107
+00:13:49,662 --> 00:13:50,663
+Luna.
+
+108
+00:14:57,230 --> 00:14:59,190
+<i>Doc Hong, ¿qué pasa?</i>
+
+109
+00:15:14,247 --> 00:15:16,247
+Capitán.
+
+110
+00:15:15,706 --> 00:15:17,125
+Me caí…
+
+111
+00:15:18,751 --> 00:15:20,420
+del conducto de ventilación.
+
+112
+00:15:21,087 --> 00:15:22,296
+<i>¿Dónde estás?</i>
+
+113
+00:15:25,508 --> 00:15:26,717
+Yo…
+
+114
+00:15:27,718 --> 00:15:29,470
+no sé bien dónde estoy.
+
+115
+00:15:30,471 --> 00:15:32,181
+Parece un depósito.
+
+116
+00:15:34,142 --> 00:15:35,226
+<i>Agua lunar inyectada.</i>
+
+117
+00:15:35,309 --> 00:15:37,687
+<i>Procederé con la primera prueba
+en un cuerpo humano.</i>
+
+118
+00:15:48,156 --> 00:15:50,950
+Luna 001 no muestra señales de vida.
+
+119
+00:15:53,703 --> 00:15:55,079
+¿Qué han hecho?
+
+120
+00:16:27,153 --> 00:16:29,447
+<i>Luna 027, falló.</i>
+
+121
+00:16:30,823 --> 00:16:32,575
+<i>Luna 037, falló.</i>
+
+122
+00:16:34,327 --> 00:16:36,412
+<i>Luna 041, falló.</i>
+
+123
+00:16:38,331 --> 00:16:41,626
+<i>Luna 054 no muestra señales de vida.</i>
+
+124
+00:17:17,537 --> 00:17:20,081
+<i>Luna 073,
+todos los signos vitales estables.</i>
+
+125
+00:17:20,164 --> 00:17:22,959
+<i>No se detecta multiplicación
+de agua lunar.</i>
+
+126
+00:17:23,834 --> 00:17:26,337
+No hay reacción adversa
+en las células del cuerpo.
+
+127
+00:17:41,519 --> 00:17:42,770
+¿Estás bien?
+
+128
+00:17:42,853 --> 00:17:43,896
+Sí.
+
+129
+00:18:02,873 --> 00:18:06,877
+<i>El sol sale y se pone una vez al mes.</i>
+
+130
+00:18:07,712 --> 00:18:10,631
+<i>Así que siento
+que estoy viviendo un día muy largo</i>
+
+131
+00:18:11,465 --> 00:18:13,384
+<i>donde el tiempo pasa lentamente.</i>
+
+132
+00:18:15,261 --> 00:18:16,846
+<i>Ya pasaron dos años,</i>
+
+133
+00:18:17,972 --> 00:18:21,058
+<i>pero aún no sabemos exactamente
+qué es el agua lunar.</i>
+
+134
+00:18:21,892 --> 00:18:23,102
+<i>Los superiores</i>
+
+135
+00:18:23,936 --> 00:18:28,232
+<i>están armando un escándalo y nos piden
+que la probemos en cuerpos humanos.</i>
+
+136
+00:18:31,193 --> 00:18:33,193
+Cifras.
+
+137
+00:18:33,321 --> 00:18:34,697
+Si esto tiene éxito,
+
+138
+00:18:35,656 --> 00:18:37,408
+podría salvar a la humanidad.
+
+139
+00:18:40,578 --> 00:18:42,578
+¿Por qué?
+
+140
+00:18:43,080 --> 00:18:44,290
+¿Por qué lo hiciste?
+
+141
+00:19:14,362 --> 00:19:16,364
+No fue una decisión fácil.
+
+142
+00:19:17,073 --> 00:19:19,283
+Sé que también fue muy cruel para ti.
+
+143
+00:19:20,159 --> 00:19:23,329
+Pero pensé que era algo
+que tenía que hacer…
+
+144
+00:19:26,165 --> 00:19:28,709
+por el futuro de todos.
+
+145
+00:19:29,919 --> 00:19:30,920
+Quería…
+
+146
+00:19:33,839 --> 00:19:35,758
+explicarte todo algún día.
+
+147
+00:19:39,178 --> 00:19:41,097
+¿Por qué me pediste que viniera?
+
+148
+00:19:42,431 --> 00:19:43,933
+¿Qué quieres que haga?
+
+149
+00:19:49,230 --> 00:19:50,356
+Jian.
+
+150
+00:19:55,277 --> 00:19:58,531
+Quería mostrarte el mar.
+
+151
+00:20:01,367 --> 00:20:02,910
+Eres muy tonta.
+
+152
+00:20:04,662 --> 00:20:06,247
+Jian, ¿qué…?
+
+153
+00:20:07,748 --> 00:20:09,041
+¿Qué he hecho?
+
+154
+00:20:09,875 --> 00:20:11,168
+¿Por qué…?
+
+155
+00:20:11,252 --> 00:20:14,338
+¿Por qué no te quedaste a mi lado?
+
+156
+00:20:18,175 --> 00:20:20,469
+Siento no haber atendido tu llamada.
+
+157
+00:21:03,971 --> 00:21:05,389
+Te extraño.
+
+158
+00:21:22,698 --> 00:21:24,533
+Capitán, encontré una puerta.
+
+159
+00:22:57,167 --> 00:22:58,502
+SISTEMA DE PURIFICACIÓN DE AIRE
+PREPARANDO
+
+160
+00:22:58,586 --> 00:23:00,586
+TEMPORIZADOR DE ACTIVACIÓN
+
+161
+00:23:03,132 --> 00:23:07,511
+PRESIÓN ANÓMALA DETECTADA
+
+162
+00:23:45,424 --> 00:23:46,759
+SE REQUIERE CÓDIGO NIVEL 1
+
+163
+00:23:50,054 --> 00:23:51,597
+TEMPORIZADOR DE ACTIVACIÓN
+
+164
+00:23:51,680 --> 00:23:52,932
+COMANDO EJECUTADO
+
+165
+00:25:04,211 --> 00:25:05,254
+Capitán.
+
+166
+00:25:37,119 --> 00:25:38,787
+CIERRE DE PUERTAS
+
+167
+00:25:42,166 --> 00:25:43,876
+ABRIR PUERTA
+
+168
+00:25:50,549 --> 00:25:53,177
+ABRIR PUERTA
+
+169
+00:25:53,260 --> 00:25:55,137
+<i>Desactivando cierre de puertas.</i>
+
+170
+00:25:55,220 --> 00:25:57,181
+<i>Desactivando cierre de puertas.</i>
+
+171
+00:26:02,561 --> 00:26:04,561
+Doc Hong.
+
+172
+00:26:12,780 --> 00:26:13,947
+¿Sí?
+
+173
+00:26:14,031 --> 00:26:15,157
+Tenemos que irnos.
+
+174
+00:26:16,116 --> 00:26:18,116
+Sí.
+
+175
+00:26:22,664 --> 00:26:26,960
+<i>Nivel de presión en peligro.
+Activando sistema de ventilación forzada.</i>
+
+176
+00:26:28,462 --> 00:26:31,215
+Doc Hong, ve al laboratorio y espera allí.
+
+177
+00:26:31,298 --> 00:26:32,341
+Sí, señor.
+
+178
+00:27:12,798 --> 00:27:14,216
+Esa es la Tierra.
+
+179
+00:27:16,885 --> 00:27:19,680
+¿Sabes qué es la Tierra?
+
+180
+00:27:28,063 --> 00:27:29,273
+Ti…
+
+181
+00:27:32,192 --> 00:27:33,235
+Tie…
+
+182
+00:27:51,962 --> 00:27:54,089
+Suelte el arma, jefe Gong.
+
+183
+00:27:54,840 --> 00:27:56,258
+A un lado, doctora Song.
+
+184
+00:27:56,967 --> 00:27:58,677
+Puedo calmarla.
+
+185
+00:27:58,760 --> 00:28:00,053
+Está bien.
+
+186
+00:28:00,637 --> 00:28:03,849
+Ya vio lo que le hizo
+a nuestra tripulación. A un lado.
+
+187
+00:28:03,932 --> 00:28:08,145
+Estuve con ella todo el tiempo,
+pero nunca me atacó. Ya no nos atacará.
+
+188
+00:28:10,606 --> 00:28:11,815
+Baje el arma.
+
+189
+00:28:11,899 --> 00:28:13,150
+<i>Soohyuk.</i>
+
+190
+00:28:14,651 --> 00:28:16,904
+Encontré a la doctora Song y al objetivo.
+
+191
+00:28:21,575 --> 00:28:23,410
+No logré asegurar la cápsula.
+
+192
+00:28:23,493 --> 00:28:24,912
+Taesuk se dirige hacia allí.
+
+193
+00:28:24,995 --> 00:28:26,872
+Escóltalas al laboratorio principal.
+
+194
+00:28:27,456 --> 00:28:29,833
+<i>No debes matarla. Hay que llevarla viva.</i>
+
+195
+00:28:29,917 --> 00:28:31,293
+<i>¿Puedes hacerlo?</i>
+
+196
+00:31:38,855 --> 00:31:40,065
+¡Luna!
+
+197
+00:31:40,774 --> 00:31:41,775
+¡Luna!
+
+198
+00:31:42,651 --> 00:31:43,735
+Por aquí.
+
+199
+00:31:46,738 --> 00:31:48,156
+Tenemos que ir por aquí.
+
+200
+00:31:49,991 --> 00:31:51,201
+Ven aquí.
+
+201
+00:31:51,785 --> 00:31:52,828
+Luna.
+
+202
+00:32:10,846 --> 00:32:12,180
+Vamos por aquí.
+
+203
+00:33:43,188 --> 00:33:44,272
+Taesuk.
+
+204
+00:33:47,317 --> 00:33:48,777
+¿Por qué haces esto?
+
+205
+00:33:49,277 --> 00:33:51,277
+Capitán.
+
+206
+00:33:51,112 --> 00:33:53,031
+No sabe nada.
+
+207
+00:33:57,869 --> 00:34:00,622
+No sabe qué pasó aquí…
+
+208
+00:34:01,665 --> 00:34:03,083
+ni qué es el agua lunar.
+
+209
+00:34:07,337 --> 00:34:08,547
+MENSAJE RECIBIDO
+
+210
+00:38:05,492 --> 00:38:07,035
+TODOS LOS PERSONAJES, LUGARES,
+ORGANIZACIONES, NOMBRES E INCIDENTES
+
+211
+00:38:07,118 --> 00:38:08,411
+SON PRODUCTOS DE LA IMAGINACIÓN
+O USADOS DE FORMA FICTICIA
+
+212
+00:38:08,495 --> 00:38:09,746
+CUALQUIER PARECIDO CON LA REALIDAD
+ES UNA COINCIDENCIA
+
+213
+00:38:09,829 --> 00:38:14,834
+siguenos y comparte "telegram como @mkdoramas"
+
